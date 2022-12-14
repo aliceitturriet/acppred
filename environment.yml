@@ -10,4 +10,5 @@ dependencies:
   - pip
   - pip:
     - -r requirements.txt
-
+    - -e .
+    
