@@ -9,3 +9,6 @@ a tool to predict anticancer peptides
 ```
 $ make setup
 ```
+
+$ conda env create
+
